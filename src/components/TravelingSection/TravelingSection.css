@@ -1,0 +1,30 @@
+.travel-places {
+    display: flex;
+    margin-top: 100px;
+    padding: 0 10px;
+    color: #fff;
+  }
+.places {
+  width: 35%;
+  padding: 0 30px;
+  color: #fff;
+}
+.places h1{
+  font-size: 70px;
+  float: left;
+}
+.places p {
+  font-size: 14px;
+  float: left;
+  color: #fff;
+}
+.places Button {
+  float: left;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.img-card{
+  width: 40%;
+  padding-left: 100px;
+  display: flex;
+}

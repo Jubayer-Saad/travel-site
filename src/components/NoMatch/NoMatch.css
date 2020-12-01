@@ -1,0 +1,9 @@
+.no-match {
+    width: 500px;
+    height: 500px;
+    color: red;
+    border: 5px solid red;
+    margin: 50px auto;
+    text-align: center;
+    padding-top: 150px;
+}
